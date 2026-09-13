@@ -37,3 +37,17 @@ git config --global --list
   git switch main
 10-Merge changes:
    git merge new_feature  
+11-
+   11.1 create an empty repository on github
+   11.2 Connect local repository to a GitHub repository and push it:
+        git remote add origin https://github.com/rakyColsan/sprint6_version1.git 
+   11.3 push it:
+        git push -u origin main
+12-Working in a team (first pull we use clone):
+   12.1 to colone github repository:
+   git clone https://github.com/rakyColsan/sprint6_version1 
+   12.2 Make changes:
+        git add .
+        git commit -m "message
+   12.3 Push your changes:
+        git push              
