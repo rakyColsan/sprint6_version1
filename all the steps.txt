@@ -13,6 +13,7 @@ git config --global core.editor "code --wait"
 git config --global --list
 
 3-git init: creates the hidden .git directory inside the current folder
+ Powershell: dir -Force
 4-git status: It shows the current state of your working directory and staging area.
 5-The staging area is basically a temporary preparation area for your next commit.
   git add 
