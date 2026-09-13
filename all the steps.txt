@@ -1,0 +1,19 @@
+1-After installing Git, you should configure the global settings that apply to all repositories for your user account.
+For example:
+git config --global user.name "Rami Alkubaty"
+git config --global user.email "rami.alkubaty@iu.org"
+git config --global init.defaultBranch main
+git config --global core.editor "code --wait"
+
+# Alternative editors:
+# git config --global core.editor nano
+# git config --global core.editor vim
+
+2-To check your global Git configuration:
+git config --global --list
+
+3-git init: creates the hidden .git directory inside the current folder
+4-git status: It shows the current state of your working directory and staging area.
+5-The staging area is basically a temporary preparation area for your next commit.
+  git add 
+6-Commit  
