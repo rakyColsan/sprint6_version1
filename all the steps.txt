@@ -18,5 +18,17 @@ git config --global --list
 5-The staging area is basically a temporary preparation area for your next commit.
   git add 
 6-Commit: git commit -m "message"; git log (hit (q))  
-7-Create a branch:
+7-Delete:
+         1-Untracked / not staged yet:
+         1.1-Delete manually
+         1.2-rm filename
+         1.3-git clean -f filename
+         2-Staged:
+           Bring the to unstaged phase and then:
+           git restore --staged file.txt  
+           rm filename 
+         3-Commited:
+          git rm file.txt
+          git commit -m "Remove file.txt"  
+8-Create a branch:
   git switch -c new_feature
