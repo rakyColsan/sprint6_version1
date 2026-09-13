@@ -45,7 +45,7 @@ git config --global --list
         git push -u origin main
 12-Working in a team (first pull we use clone):
    12.1 to colone github repository:
-   git clone https://github.com/rakyColsan/sprint6_version1 
+   git clone https://github.com/rakyColsan/sprint6_version1.git 
    12.2 Make changes:
         git add .
         git commit -m "message
