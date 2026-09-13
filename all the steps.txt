@@ -32,3 +32,8 @@ git config --global --list
           git commit -m "Remove file.txt"  
 8-Create a branch:
   git switch -c new_feature
+
+9-Back to the main branch: 
+  git switch main
+10-Merge changes:
+   git merge new_feature  
