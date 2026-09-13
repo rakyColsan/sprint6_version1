@@ -1,0 +1,23 @@
+[33mcommit 8d08e251e47ce970e92384bc97a5a0742e5a091e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew_feature[m[33m)[m
+Author: Rami Alkubaty <rami.alkubaty@iu.org>
+Date:   Sun Sep 13 13:58:28 2026 +0200
+
+    new feature added
+
+[33mcommit ef797e43fda8d81010f66d905625be20dd92d3e3[m[33m ([m[1;32mmain[m[33m)[m
+Author: Rami Alkubaty <rami.alkubaty@iu.org>
+Date:   Sun Sep 13 12:46:45 2026 +0200
+
+    test3
+
+[33mcommit 196c03a9d371620e135c2867b406c6d2796772c9[m
+Author: Rami Alkubaty <rami.alkubaty@iu.org>
+Date:   Sun Sep 13 12:44:02 2026 +0200
+
+    test2
+
+[33mcommit 6e552f8788e14b629e4ec1a1068611a4b671e975[m
+Author: Rami Alkubaty <rami.alkubaty@iu.org>
+Date:   Sun Sep 13 12:40:22 2026 +0200
+
+    test
